@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Brain Trainer</string>
+    <string name="go">Go!!</string>
+    <string name="welcome_to_brain_trainer_app">Welcome To Brain Trainer App</string>
+    <string name="it_s_a_game_of_45_seconds_try_hard_to_score_best">Its a game of 30 Seconds. Try Hard To Score Best</string>
+    <string name="xypher_brother_studio"><![CDATA[XYPHER & BROTHER STUDIO]]></string>
+</resources>
